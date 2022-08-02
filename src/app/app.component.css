@@ -1,0 +1,17 @@
+h1{
+text-align: center;
+background: rgb(249, 241, 28);
+text-shadow: 5px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+container{
+    margin-left: 00px;
+    padding-left: 1000px;
+}
+body{
+   
+    padding: 0%;
+    margin: 0%;
+}
